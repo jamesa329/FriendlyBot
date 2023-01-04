@@ -1,0 +1,26 @@
+{
+  "name": "friendlybot",
+  "version": "1.0.0",
+  "description": "Bot made for private discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "!ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "vinne329",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "eris": "^0.17.1"
+  }
+}
